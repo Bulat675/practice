@@ -48,6 +48,13 @@
             <ComboBoxItem Content="831" />
             <ComboBoxItem Content="841" />
         </ComboBox>
+        <TextBlock Text="Фильтрация по группе:" 
+                   FontSize="15" 
+                   FontStyle="Italic"
+                   FontWeight="Medium"
+                   HorizontalAlignment="Center" 
+                   Margin="-20 20 0 0"
+                   Foreground="#515B3A"/>
         <DataGrid Grid.Row="1"
        AutoGenerateColumns="False"
        x:Name="StudentGrid"
