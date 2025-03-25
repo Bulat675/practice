@@ -37,7 +37,7 @@ namespace PracticeKB.Pages
         {
 
         }
-
+           
         private void Back_Click(object sender, RoutedEventArgs e)
         {
             NavigationService.Navigate(new AuthorizationPage());
@@ -65,11 +65,33 @@ namespace PracticeKB.Pages
         private void Edit_Click(object sender, RoutedEventArgs e)
         {
             var button = sender as Button;
-            var selectedStudent = button.DataContext as Student; // Получаем контекст данных (студента)
+            var selectedStudent = button.DataContext as Student; 
 
             if (selectedStudent != null)
             {
-                NavigationService.Navigate(new СhangePage(selectedStudent)); // Переход на страницу редактирования
+                NavigationService.Navigate(new СhangePage(selectedStudent)); 
+            }
+        }
+
+        private void FilterComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            var selectedItem = FilterComboBox.SelectedItem as ComboBoxItem;
+
+            if (selectedItem != null)
+            {
+                string selectedGroup = selectedItem.Content.ToString();
+
+                // Фильтруем студентов
+                if (selectedGroup == "Все")
+                {
+                    StudentGrid.ItemsSource = Base.Bdclass.bd.Student.ToList();
+                }
+                else
+                {
+                    StudentGrid.ItemsSource = Base.Bdclass.bd.Student
+                        .Where(s => s.Groups == selectedGroup)
+                        .ToList();
+                }
             }
         }
     }

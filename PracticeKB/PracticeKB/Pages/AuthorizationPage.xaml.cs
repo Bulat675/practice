@@ -53,5 +53,10 @@ namespace PracticeKB.Pages
                 MessageBox.Show("Неправильный логин или пароль!");
             }
         }
+
+        private void Register_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new AddUserPage());
+        }
     }
 }

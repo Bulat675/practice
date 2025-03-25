@@ -54,3 +54,5 @@ C:\Users\Bulat\Desktop\Практика\PracticeKB\PracticeKB\obj\Debug\Pages\Ad
 C:\Users\Bulat\Desktop\Практика\PracticeKB\PracticeKB\obj\Debug\Pages\AddStudentPage.baml
 C:\Users\Bulat\Desktop\Практика\PracticeKB\PracticeKB\obj\Debug\Pages\СhangePage.g.cs
 C:\Users\Bulat\Desktop\Практика\PracticeKB\PracticeKB\obj\Debug\Pages\СhangePage.baml
+C:\Users\Bulat\Desktop\Практика\PracticeKB\PracticeKB\obj\Debug\Pages\AddUserPage.g.cs
+C:\Users\Bulat\Desktop\Практика\PracticeKB\PracticeKB\obj\Debug\Pages\AddUserPage.baml

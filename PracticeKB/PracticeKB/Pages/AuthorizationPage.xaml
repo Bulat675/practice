@@ -16,13 +16,13 @@
                        Foreground="#515B3A"
                        FontStyle="Italic"
                        FontWeight="Medium"
-                       Margin="45 -90 0 0"/>
+                       Margin="45 -75 0 0"/>
             <TextBlock Text="Логин:"
                        FontSize="17"
                        Foreground="#515B3A"
                        FontStyle="Italic"
                        FontWeight="Medium"
-                       Margin="5 -35 0 0"/>
+                       Margin="5 -25 0 0"/>
             <TextBox Height="40" 
                      Width="300" 
                      x:Name="LoginTB"
@@ -36,7 +36,6 @@
             <PasswordBox Height="40" 
                          Width="300" 
                          x:Name="PasswordBx"
-                         Margin="0 10 0 0"
                          VerticalContentAlignment="Center"/>
             <Button Height="50"
                     Width="300"
@@ -44,9 +43,18 @@
                     FontSize="19"
                     Background="#6BA368"
                     Foreground="White"
-                    Margin="0 30 0 0"
+                    Margin="0 20 0 0"
                     x:Name="Auth"
                     Click="Auth_Click"/>
+            <Button Height="50"
+                    Width="300"
+                    Content="Зарегистрироваться"
+                    FontSize="19"
+                    Background="#6BA368"
+                    Foreground="White"
+                    Margin="0 20 0 0"
+                    x:Name="Register"
+                    Click="Register_Click"/>
         </StackPanel>
     </Grid>
 </Page>
