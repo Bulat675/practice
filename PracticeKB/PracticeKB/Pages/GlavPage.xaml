@@ -5,10 +5,64 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:PracticeKB.Pages"
       mc:Ignorable="d" 
+      Loaded="Page_Loaded"
       d:DesignHeight="450" d:DesignWidth="800"
       Title="GlavPage">
 
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <Button Height="20"
+                Margin="10"
+                x:Name="Back"
+                Click="Back_Click"
+                HorizontalAlignment="Left"
+                Content="Назад"
+                Width="100"
+                Background="#6BA368"
+                Foreground="White"/>
+        <DataGrid Grid.Row="1"
+       AutoGenerateColumns="False"
+       x:Name="StudentGrid"
+       SelectionChanged="StudentGrid_SelectionChanged"
+       Margin="0,0,0,10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ФИО" Width="*" Binding="{Binding FIO}"/>
+                <DataGridTextColumn Header="Группа" Width="*" Binding="{Binding Specialization.Title}" />
+                <DataGridTextColumn Header="Специальность" Width="*" Binding="{Binding Groups}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="2"
+                    HorizontalAlignment="Center"
+                    Orientation="Horizontal"
+                    VerticalAlignment="Center">
+            <Button Height="24"
+                    Content="Добавить"
+                    Width="150"
+                    x:Name="Add"
+                    Click="Add_Click"
+                    Margin="5"
+                    Background="#6BA368"
+                    Foreground="White"/>
+            <Button Height="24"
+                    Content="Изменить"
+                    Width="150"
+                    x:Name="Сhange"
+                    Click="Сhange_Click"
+                    Margin="5"
+                    Background="#6BA368"
+                    Foreground="White"/>
+            <Button Height="24"
+                    Content="Удалить"
+                    Width="150"
+                    x:Name="Remove"
+                    Click="Remove_Click"
+                    Margin="5"
+                    Background="#6BA368"
+                    Foreground="White"/>
+        </StackPanel>
     </Grid>
 </Page>

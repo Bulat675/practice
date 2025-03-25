@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:PracticeKB"
         mc:Ignorable="d"
         Title="Student accounting" Height="450" Width="800">
-    <Grid>
+    <Grid Background="#9CFC97">
         <Frame Name="MainFrame" NavigationUIVisibility="Hidden"/>
     </Grid>
 </Window>
