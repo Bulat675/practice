@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PracticeKB.Base;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,9 +21,11 @@ namespace PracticeKB.Pages
     /// </summary>
     public partial class GlavPage : Page
     {
+
         public GlavPage()
         {
             InitializeComponent();
+
         }
 
         private void Page_Loaded(object sender, RoutedEventArgs e)
@@ -42,17 +45,32 @@ namespace PracticeKB.Pages
 
         private void Add_Click(object sender, RoutedEventArgs e)
         {
-
+            NavigationService.Navigate(new AddStudentPage());
         }
 
-        private void Сhange_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
 
         private void Remove_Click(object sender, RoutedEventArgs e)
         {
+            if (MessageBox.Show("Вы действительно хотите удалить студента", "уведомление", MessageBoxButton.YesNo, MessageBoxImage.Question) == MessageBoxResult.Yes)
+            {
+                var RemoveStudents = StudentGrid.SelectedItem as Student;
+                Base.Bdclass.bd.Student.Remove(RemoveStudents);
 
+                Base.Bdclass.bd.SaveChanges();
+                StudentGrid.ItemsSource = Base.Bdclass.bd.Student.ToList();
+                MessageBox.Show("Успешно!");
+            }
+        }
+
+        private void Edit_Click(object sender, RoutedEventArgs e)
+        {
+            var button = sender as Button;
+            var selectedStudent = button.DataContext as Student; // Получаем контекст данных (студента)
+
+            if (selectedStudent != null)
+            {
+                NavigationService.Navigate(new СhangePage(selectedStudent)); // Переход на страницу редактирования
+            }
         }
     }
 }

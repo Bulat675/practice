@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|c:\\users\\bulat\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practicekb\\practicekb\\pages\\\u0441hangepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|solutionrelative:practicekb\\pages\\\u0441hangepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|c:\\users\\bulat\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practicekb\\practicekb\\pages\\addstudentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|solutionrelative:practicekb\\pages\\addstudentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|c:\\users\\bulat\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practicekb\\practicekb\\pages\\\u0441hangepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|solutionrelative:practicekb\\pages\\\u0441hangepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\practicekb\\pages\\glavpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|solutionrelative:practicekb\\pages\\glavpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|c:\\users\\bulat\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practicekb\\practicekb\\pages\\addstudentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|solutionrelative:practicekb\\pages\\addstudentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|c:\\users\\bulat\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\practicekb\\practicekb\\pages\\glavpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|solutionrelative:practicekb\\pages\\glavpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -23,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|solutionrelative:practicekb\\base\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\practicekb\\pages\\glavpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|solutionrelative:practicekb\\pages\\glavpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\practicekb\\base\\bdclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBBB57F4-D797-42AC-B37F-B43368BC7BD0}|PracticeKB\\PracticeKB.csproj|solutionrelative:practicekb\\base\\bdclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,23 +58,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Pages\\GlavPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\GlavPage.xaml.cs",
-              "RelativeDocumentMoniker": "PracticeKB\\Pages\\GlavPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\GlavPage.xaml.cs",
-              "RelativeToolTip": "PracticeKB\\Pages\\GlavPage.xaml.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAwCcAAABAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Pages\\\u0421hangePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\\u0421hangePage.xaml.cs",
+              "RelativeDocumentMoniker": "PracticeKB\\Pages\\\u0421hangePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\\u0421hangePage.xaml.cs",
+              "RelativeToolTip": "PracticeKB\\Pages\\\u0421hangePage.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwDsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T07:06:56.883Z"
+              "WhenOpened": "2025-03-25T10:29:30.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u0421hangePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\\u0421hangePage.xaml",
+              "RelativeDocumentMoniker": "PracticeKB\\Pages\\\u0421hangePage.xaml",
+              "ToolTip": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\\u0421hangePage.xaml",
+              "RelativeToolTip": "PracticeKB\\Pages\\\u0421hangePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-25T10:28:32.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pages\\AddStudentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\AddStudentPage.xaml.cs",
+              "RelativeDocumentMoniker": "PracticeKB\\Pages\\AddStudentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\AddStudentPage.xaml.cs",
+              "RelativeToolTip": "PracticeKB\\Pages\\AddStudentPage.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:24:08.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "AddStudentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\AddStudentPage.xaml",
+              "RelativeDocumentMoniker": "PracticeKB\\Pages\\AddStudentPage.xaml",
+              "ToolTip": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\AddStudentPage.xaml",
+              "RelativeToolTip": "PracticeKB\\Pages\\AddStudentPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-25T08:14:07.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlavPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\GlavPage.xaml.cs",
+              "RelativeDocumentMoniker": "PracticeKB\\Pages\\GlavPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\GlavPage.xaml.cs",
+              "RelativeToolTip": "PracticeKB\\Pages\\GlavPage.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:06:56.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Base\\Model1.edmx",
               "RelativeDocumentMoniker": "PracticeKB\\Base\\Model1.edmx",
@@ -69,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "GlavPage.xaml",
               "DocumentMoniker": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\GlavPage.xaml",
               "RelativeDocumentMoniker": "PracticeKB\\Pages\\GlavPage.xaml",
@@ -81,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Bdclass.cs",
               "DocumentMoniker": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Base\\Bdclass.cs",
               "RelativeDocumentMoniker": "PracticeKB\\Base\\Bdclass.cs",
@@ -93,41 +160,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "AuthorizationPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\AuthorizationPage.xaml.cs",
               "RelativeDocumentMoniker": "PracticeKB\\Pages\\AuthorizationPage.xaml.cs",
               "ToolTip": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\AuthorizationPage.xaml.cs",
               "RelativeToolTip": "PracticeKB\\Pages\\AuthorizationPage.xaml.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAswC8AAAA/AAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T13:02:00.542Z"
+              "WhenOpened": "2025-03-24T13:02:00.542Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "AuthorizationPage.xaml",
               "DocumentMoniker": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\AuthorizationPage.xaml",
               "RelativeDocumentMoniker": "PracticeKB\\Pages\\AuthorizationPage.xaml",
               "ToolTip": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\Pages\\AuthorizationPage.xaml",
               "RelativeToolTip": "PracticeKB\\Pages\\AuthorizationPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-24T12:46:51.037Z"
+              "WhenOpened": "2025-03-24T12:46:51.037Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PracticeKB\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\MainWindow.xaml",
               "RelativeToolTip": "PracticeKB\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-24T12:44:03.914Z"
+              "WhenOpened": "2025-03-24T12:44:03.914Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Bulat\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PracticeKB\\PracticeKB\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PracticeKB\\MainWindow.xaml.cs",

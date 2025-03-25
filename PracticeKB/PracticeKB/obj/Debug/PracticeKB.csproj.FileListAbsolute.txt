@@ -50,3 +50,7 @@ C:\Users\Bulat\Desktop\Практика\PracticeKB\PracticeKB\obj\Debug\Practice
 C:\Users\Bulat\Desktop\Практика\PracticeKB\PracticeKB\obj\Debug\PracticeKB.csproj.Up2Date
 C:\Users\Bulat\Desktop\Практика\PracticeKB\PracticeKB\obj\Debug\PracticeKB.exe
 C:\Users\Bulat\Desktop\Практика\PracticeKB\PracticeKB\obj\Debug\PracticeKB.pdb
+C:\Users\Bulat\Desktop\Практика\PracticeKB\PracticeKB\obj\Debug\Pages\AddStudentPage.g.cs
+C:\Users\Bulat\Desktop\Практика\PracticeKB\PracticeKB\obj\Debug\Pages\AddStudentPage.baml
+C:\Users\Bulat\Desktop\Практика\PracticeKB\PracticeKB\obj\Debug\Pages\СhangePage.g.cs
+C:\Users\Bulat\Desktop\Практика\PracticeKB\PracticeKB\obj\Debug\Pages\СhangePage.baml

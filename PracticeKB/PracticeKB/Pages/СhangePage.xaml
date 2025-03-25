@@ -1,0 +1,65 @@
+﻿<Page x:Class="PracticeKB.Pages.СhangePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PracticeKB.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="СhangePage">
+
+    <Grid>
+        <StackPanel Margin="50 20 50 10">
+            <TextBlock Text="Изменить запись о студенте" 
+                FontSize="24"
+                FontStyle="Italic"
+                FontWeight="Medium"
+                HorizontalAlignment="Center" 
+                Margin="0 0 0 20"
+                Foreground="#515B3A"/>
+            <TextBlock Text="ФИО:" 
+                FontSize="15"
+                Foreground="#515B3A"
+                FontStyle="Italic"
+                FontWeight="Medium"/>
+            <TextBox x:Name="FioTB"
+              Height="25"
+              VerticalContentAlignment="Center"/>
+            <TextBlock Text="Специальность:"
+                FontSize="15"
+                Foreground="#515B3A"
+                FontStyle="Italic"
+                FontWeight="Medium"/>
+            <ComboBox x:Name="SpecializationCB" 
+               Height="25"
+               DisplayMemberPath="Title"
+               SelectedValuePath="ID_Specialization"/>
+            <TextBlock Text="Группа:"
+                FontSize="15"
+                Foreground="#515B3A"
+                FontStyle="Italic"
+                FontWeight="Medium"/>
+            <TextBox x:Name="GroupTB" 
+              Height="25"
+              VerticalContentAlignment="Center"/>
+            <Button Height="50"
+             Width="300"
+             Content="Сохранить"
+             FontSize="19"
+             Background="#6BA368"
+             Foreground="White"
+             Margin="0 30 0 0"
+             x:Name="Add"
+             Click="Add_Click"/>
+            <Button Height="50"
+             Width="300"
+             Content="Назад"
+             FontSize="19"
+             Background="#6BA368"
+             Foreground="White"
+             Margin="0 30 0 0"
+             x:Name="back"
+             Click="back_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>

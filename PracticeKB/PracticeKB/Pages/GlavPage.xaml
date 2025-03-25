@@ -31,8 +31,22 @@
        Margin="0,0,0,10">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="ФИО" Width="*" Binding="{Binding FIO}"/>
-                <DataGridTextColumn Header="Группа" Width="*" Binding="{Binding Specialization.Title}" />
-                <DataGridTextColumn Header="Специальность" Width="*" Binding="{Binding Groups}" />
+                <DataGridTextColumn Header="Специальность" Width="*" Binding="{Binding Specialization.Title}" />
+                <DataGridTextColumn Header="Группа" Width="*" Binding="{Binding Groups}"/>
+                <DataGridTemplateColumn Width="auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Height="24"
+                                    Content="Изменить"
+                                    Width="150"
+                                    x:Name="Edit"
+                                    Click="Edit_Click"
+                                    Margin="5"
+                                    Background="#6BA368"
+                                    Foreground="White"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
             </DataGrid.Columns>
         </DataGrid>
         <StackPanel Grid.Row="2"
@@ -44,14 +58,6 @@
                     Width="150"
                     x:Name="Add"
                     Click="Add_Click"
-                    Margin="5"
-                    Background="#6BA368"
-                    Foreground="White"/>
-            <Button Height="24"
-                    Content="Изменить"
-                    Width="150"
-                    x:Name="Сhange"
-                    Click="Сhange_Click"
                     Margin="5"
                     Background="#6BA368"
                     Foreground="White"/>
